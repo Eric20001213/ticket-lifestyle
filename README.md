@@ -1,4 +1,4 @@
-# ticket-lifestyle
+# End to End Ticketing Lifecycle | ITSM Workflow Simulation
 
 ### 1. Ticket Creation (Intake Phase)
 A support ticket is initiated by an end user via a help desk portal or email.
