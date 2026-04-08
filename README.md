@@ -45,7 +45,7 @@ After identifying a solution:
 
 - The agent applies the fix  
 - Sends a resolution summary to the user  
-- Updates ticket status to:
+- Updates ticket status to 'Resolved'
 
 
 ---
