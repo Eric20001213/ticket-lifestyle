@@ -59,5 +59,3 @@ Final stage of the lifecycle:
   - Reporting
   - Auditing
   - Knowledge base reference  
-
-I wasn't able to get my osTicketing system to work 🙁
